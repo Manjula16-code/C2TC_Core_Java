@@ -1,7 +1,7 @@
 /**
  * 
  */
-package tns_encapsulation;
+package com.tnsif.encapsulation;
 
 /**
  * 

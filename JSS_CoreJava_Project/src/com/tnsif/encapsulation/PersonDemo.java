@@ -1,4 +1,4 @@
-package tns_encapsulation;
+package com.tnsif.encapsulation;
 
 public class PersonDemo {
 	public static void main(String[] args) {

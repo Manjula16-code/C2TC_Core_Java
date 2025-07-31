@@ -1,4 +1,4 @@
-package tns_encapsulation;
+package com.tnsif.encapsulation;
 
 public class Person {
 	private int age;
